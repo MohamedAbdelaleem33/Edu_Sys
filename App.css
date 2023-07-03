@@ -1,0 +1,30 @@
+.App {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.register-content {
+    display: flex;
+    align-self: center;
+    align-content: center;
+    align-items: center;
+}
+
+.register-button{
+    margin: 1em;
+    padding-top: 20px;
+}
+
+.forgot-password {
+    display: flex;
+    align-items: flex-end;
+    align-self: flex-end;
+    align-content: flex-end;
+
+}
+
+.footer{
+    margin-top: auto;
+    align-content: flex-start;
+}

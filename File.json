@@ -1,0 +1,32 @@
+{
+  "filesSec": [
+    {
+      "name": "File 1",
+      "path": "https://drive.google.com/file/d/1MpEj_1DYu9VtVpRuu5V3ckwDlJ1HKyxY/view?usp=drivesdk"
+    },
+    {
+      "name": "File 2",
+      "path": "https://drive.google.com/file/d/1L835Yy0NyJJxuqAYcREdttBGJ88j5ioh/view?usp=sharing"
+    },
+    {
+      "name": "File 3",
+      "path": "https://drive.google.com/file/d/1qI2BKoOnCjbCC6FOOVkQgXzuwPJV5CDI/view?usp=drivesdk"
+    },
+    {
+      "name": "File 4",
+      "path": "/path/to/file4.pdf"
+    }
+  ],
+  "filesDB": [
+    {
+    "name": "File 1",
+    "path": "https://drive.google.com/file/d/1OjGuoW6QmzKCGJRd59gp08LQnfEod3L5/view?usp=drivesdk"
+    }
+  ],
+  "filesComm": [
+    {
+    "name": "File 1",
+    "path": "https://drive.google.com/file/d/1j6ziD9OH7qtC1o2f2Z6q8G2Ih72LJBSR/view?usp=sharing"
+    }
+  ]
+}
